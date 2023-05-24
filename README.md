@@ -1,4 +1,4 @@
-# Funnels
+# Dequantile
 
 This repository contains the code needed to reproduce the experiments from the paper:
 
